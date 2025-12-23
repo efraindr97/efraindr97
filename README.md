@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Efraín David 👋
 
-<!--
-**efraindr97/efraindr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrollador Web Full Stack | Especialista en WordPress & IA
 
-Here are some ideas to get you started:
+Me apasiona transformar ideas en realidades digitales. Mi enfoque actual es el desarrollo de sitios web de alto rendimiento y la integración de soluciones inteligentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Basado en España.
+- 🛠️ Mi proyecto más reciente: [OCM Inmobiliaria](https://ocminmobiliaria.com/)
+- 🧠 Siempre aprendiendo sobre: Prompt Engineering y Automatizaciones Web.
+
+### 🛠️ Tecnologías y Herramientas
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 📊 Mis Estadísticas de GitHub
+
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=efraindr97&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=efraindr97&layout=compact&theme=radical)
+
+---
+📫 **¿Cómo contactarme?**
+[Correo Electronico](efrainquesquen0805@gmail.com)
